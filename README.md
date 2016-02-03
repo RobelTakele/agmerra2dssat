@@ -11,10 +11,10 @@ This bash script prepares the AgMERRA Global Gridded Climate Forcing Dataset(Rua
                                                                                                                    
      2) CDO: Climate Data Operators -> http://code.zmaw.de/projects/cdo                                           
                                                                                                                    
-    3) R: A Language and Environment for Statistical Computing ->  http://www.r-project.org/                       
+     3) R: A Language and Environment for Statistical Computing ->  http://www.r-project.org/                       
             Required packages ->  3.1)ncdf4: Interface to Unidata netCDF Version 4 or Earlier                     
                                   3.2)chron: Chronological objects which can handle dates and times                                                         									     
-      4) HDF5 library(optional): This is needed to import CM-SAF [CM-SAF] HDF5 files with the CDO operator        
+     4) HDF5 library(optional): This is needed to import CM-SAF [CM-SAF] HDF5 files with the CDO operator        
           -> http://www.hdfgroup.org/HDF5                                                                          
                                                 
             
